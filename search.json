@@ -1,0 +1,189 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "01【RA】药物从研发到上市",
+    "section": "",
+    "text": "By: JOJO 2024-06-25",
+    "crumbs": [
+      "基础知识",
+      "01【RA】药物从研发到上市"
+    ]
+  },
+  {
+    "objectID": "index.html#第一步药物发现与研发",
+    "href": "index.html#第一步药物发现与研发",
+    "title": "01【RA】药物从研发到上市",
+    "section": "第一步：药物发现与研发",
+    "text": "第一步：药物发现与研发\n\n1. 通常来说，新药的发现有以下几种渠道：\n\n\n新致病机制的出现\n大量已知化合物的实验验证\n现有药物的其他适应症\n新辅助技术的出现\n\n\n在这一阶段，大量的化合物都可能成为研发潜在的候选药物。然而，经过早期实验验证后，只有少数化合物能够进入下一步研究。\n\n\n2. 一旦确定了一种有开发前景的化合物，研究人员将进行大量实验，以确定该化合物：\n\n\n如何吸收、分布、代谢和排泄\n潜在药效和药理\n最佳剂量\n最佳给药方式\n副作用及不良反应\n对不同人群（如性别、种族或民族）的影响\n如何与其他药物和治疗方法相互作用\n与同类药物相比的疗效\n\n\n\n\n图一 从研发到上市",
+    "crumbs": [
+      "基础知识",
+      "01【RA】药物从研发到上市"
+    ]
+  },
+  {
+    "objectID": "index.html#第二步临床前研究",
+    "href": "index.html#第二步临床前研究",
+    "title": "01【RA】药物从研发到上市",
+    "section": "第二步：临床前研究",
+    "text": "第二步：临床前研究\n临床前研究主要包括药代动力学（Pharmacokinetics, PK）、药效学（Pharmacodynamics, PD）和毒理学（Toxicology, TOX）等研究。临床前研究有两种类型：体外和体内。\n\n\n体外研究：为了进行体外研究，使用的细胞系来源于人或非人类动物，并在培养皿或试管中引入正在开发中的新药物。它们不会对源自细胞培养物的动物或人造成伤害，并且没有动物试验的弊端；操作和运行相对便宜。但体外研究无法模拟药物化合物如何与复杂器官中存在的所有分子和细胞类型相互作用.\n体内研究：与体外相比，体内研究是在活生物体内进行的，可以使用人类或动物作为对象。体内研究可以更好地可视化潜在的相互作用，从而可以更好地预测该药物的安全性、毒性和功效。但体内研究面临重大的伦理问题（动物福利），特别是对于仅允许动物模型进行试验的临床前研究。\n\n\nFDA 要求研究人员在临床前研究中遵循良好实验室规范 (Good Laboratory Practices, GLP)。该法规规定了以下方面的最低基本要求：\n\n\n研究运行 Study Conduct\n人员 Personnel\n设施 Facilities\n设备 Equipment\n书面方案 Written Protocols\n操作规程 Operating Procedures\n研究报告 Study Reports\n质量保证监督系统 A system of quality assurance oversight for each study to help assure the safety of FDA-regulated product\n\n\n通常，临床前研究的规模不会很大。但是，这些研究必须提供有关剂量和毒性水平的详细信息。临床前试验结束后，研究人员会根据研究结果决定是否应在人体中进行试验。",
+    "crumbs": [
+      "基础知识",
+      "01【RA】药物从研发到上市"
+    ]
+  },
+  {
+    "objectID": "index.html#第三步临床研究",
+    "href": "index.html#第三步临床研究",
+    "title": "01【RA】药物从研发到上市",
+    "section": "第三步：临床研究",
+    "text": "第三步：临床研究\n“临床研究”是指在人体中进行的研究或试验。研发人员在设计临床研究时，会考虑不同临床研究阶段想要达到的目标，并开始进行新药研究程序（IND），这是临床研究开始前必须经历的一个过程。\n\n\n设计临床试验 Designing Clinical Trials\n调查性新药申请 Investigational New Drug Application\n阶段临床研究 Clinical Research Phase Studies\n\n\n\n1. 设计临床试验\n临床试验遵循研究人员或生产商制定的特定研究计划/方案。在临床试验开始前，研究人员会查看有关药物的先前信息，以制定研究问题和目标。同时需要考虑：\n\n\n参与人员资质（选择标准）\n参与人员数量\n研究持续时长\n是否有对照组或者其他限制研究偏差的方法\n如何给给患者用药，及剂量\n何时进行何种评估，收集什么数据\n如何审查和分析数据\n\n\n\n\n2. IND（Investigational New Drug）申请\n在开始临床研究之前，药物开发者或申办方必须向 FDA 提交研究性新药 (IND) 申请。在 IND 申请中，开发者必须包括以下内容：\n\n\n动物研究数据和毒性数据(造成严重危害的副作用）\n生产信息\n拟开展研究的临床方案（研究计划）\n以往任何人体研究的数据\n研究者信息\n\n\n\n\n图二 IND申报流程\n\nFDA审评团队需在30天内完成对IND的审核。该流程旨在保护临床试验受试者遭受不合理或重大风险。FDA对IND申请的回复分为两种结果：批准开展临床试验和暂停签发临床试验（Clinical Hold）\n临床暂停较为罕见，FDA通常更倾向于提出改进意见以提升试验质量。在大多数情况下，只要试验符合联邦标准，申请人即可按计划推进研究。FDA仅在特定情况下暂停签发临床试验，包括：\n\n\n受试者面临不合理或重大风险\n研究人员资质不符要求\n提供给受试者的材料存在误导性\nIND申请中未充分披露试验风险\n\n\n在临床研究进行时，如果新增试验方案或者试验中出现的严重不良反应，申办方有义务及时向审评团队报告。这些信息有助于审评团队密切监测潜在问题。试验结束后，研究人员必须提交完整的研究报告。\n\nNote: 提交上市申请前，申办方必须提供两项大型对照临床试验的充分数据。\n\n👇👇👇👇👇👇\n药物研发企业在药品开发全周期均可寻求FDA的技术支持，包括：\n\n\nPre-IND申请：获取FDA指导文件审阅服务，就提升研究质量进行咨询\nII期临床试验结束后：获得关于大规模III期研究方案设计的指导\n研发过程中任意时间节点：申请对IND资料进行预评估\n\n\nFDA提供的技术建议不具有强制性。只要临床试验方案满足以下条件：设计科学合理、体现产品特性认知、保障受试者权益且符合联邦法规要求，FDA允许申办方在试验设计方面保留较大自主权。\n\n\n图三 临床试验申请前会议(pre-IND会议)要求及时限\n\n\n\n3. 阶段临床研究\n\nⅠ期临床（约70%药物进入下个阶段）\n\n\n参与成员：20-100例正常人或患者\n研究时长：数月\n研究目的：安全性及剂量研究\n\n\n\n\nⅡ 期临床（约33%药物进入下个阶段）\n\n\n参与成员：100-300例患者\n研究时长：数月至两年\n研究目的：有效性及副作用评价\n\n\n\n\nⅢ 期临床（约25-30%药物进入下个阶段）\n\n\n参与成员：300-3000例患者\n研究时长：一到两年\n研究目的：有效性及监视不良反应\n\n\n\n\nⅣ 期临床\n\n\n参与成员：超千名患者\n研究目的：安全性及有效性",
+    "crumbs": [
+      "基础知识",
+      "01【RA】药物从研发到上市"
+    ]
+  },
+  {
+    "objectID": "index.html#第四步药品上市申请与审批流程",
+    "href": "index.html#第四步药品上市申请与审批流程",
+    "title": "01【RA】药物从研发到上市",
+    "section": "第四步：药品上市申请与审批流程",
+    "text": "第四步：药品上市申请与审批流程\n当药企通过早期试验、临床前研究及临床研究获得充分证据，证明某药物在其预期用途中安全有效时，可提交药品上市申请。\n\n1. 新药申请（New Drug Application, NDA）要求\n\n全部研究数据（临床前至III期试验）\n所有试验报告及分析结果\n\n在临床结果中，必须包含：\n\n拟议说明书文本\n安全性报告更新\n药物滥用信息\n专利信息\n境外研究数据（如适用）\n伦理委员会合规证明\n用药指导\n\n\n\n图四 NDA申请流程",
+    "crumbs": [
+      "基础知识",
+      "01【RA】药物从研发到上市"
+    ]
+  },
+  {
+    "objectID": "index.html#参考资料",
+    "href": "index.html#参考资料",
+    "title": "01【RA】药物从研发到上市",
+    "section": "参考资料",
+    "text": "参考资料\n\n[1] The Drug Development Process\n[2] 新药临床前研究制剂开发策略\n[3] **浅谈化学药、生物药临床前研究如何做\n[4] 国内药企如何在美国FDA进行新药研究（IND）的申请？\n[5] 新药从研发到上市的全流程：IND、NDA、ANDA傻傻分不清？\n[6] 汇总 | IND申报流程中美对比(附详细流程图）",
+    "crumbs": [
+      "基础知识",
+      "01【RA】药物从研发到上市"
+    ]
+  },
+  {
+    "objectID": "BD_02.html",
+    "href": "BD_02.html",
+    "title": "01【BD】2025 CPHI China: 小白参加展会的一天",
+    "section": "",
+    "text": "By: JOJO 2025-06-24",
+    "crumbs": [
+      "工作回顾",
+      "01【BD】2025 CPHI China: 小白参加展会的一天"
+    ]
+  },
+  {
+    "objectID": "BD_02.html#不打无准备的仗",
+    "href": "BD_02.html#不打无准备的仗",
+    "title": "01【BD】2025 CPHI China: 小白参加展会的一天",
+    "section": "1 不打无准备的仗",
+    "text": "1 不打无准备的仗\n早起、化妆、会场布置、着装",
+    "crumbs": [
+      "工作回顾",
+      "01【BD】2025 CPHI China: 小白参加展会的一天"
+    ]
+  },
+  {
+    "objectID": "BD_02.html#金牌销售的含金量",
+    "href": "BD_02.html#金牌销售的含金量",
+    "title": "01【BD】2025 CPHI China: 小白参加展会的一天",
+    "section": "2 金牌销售的含金量",
+    "text": "2 金牌销售的含金量\n慌乱与镇定，back up，敢想敢做",
+    "crumbs": [
+      "工作回顾",
+      "01【BD】2025 CPHI China: 小白参加展会的一天"
+    ]
+  },
+  {
+    "objectID": "BD_02.html#技术支持的重要性",
+    "href": "BD_02.html#技术支持的重要性",
+    "title": "01【BD】2025 CPHI China: 小白参加展会的一天",
+    "section": "3 技术支持的重要性",
+    "text": "3 技术支持的重要性",
+    "crumbs": [
+      "工作回顾",
+      "01【BD】2025 CPHI China: 小白参加展会的一天"
+    ]
+  },
+  {
+    "objectID": "BD_02.html#信息对称的美感",
+    "href": "BD_02.html#信息对称的美感",
+    "title": "01【BD】2025 CPHI China: 小白参加展会的一天",
+    "section": "4 信息对称的美感",
+    "text": "4 信息对称的美感",
+    "crumbs": [
+      "工作回顾",
+      "01【BD】2025 CPHI China: 小白参加展会的一天"
+    ]
+  },
+  {
+    "objectID": "BD_02.html#互帮互助的温暖",
+    "href": "BD_02.html#互帮互助的温暖",
+    "title": "01【BD】2025 CPHI China: 小白参加展会的一天",
+    "section": "5 互帮互助的温暖",
+    "text": "5 互帮互助的温暖\n好累、好饿、小腿发软、希望公司开大单。\n改进的地方：最好每个产品有一个负责人。或者每个区域，或者每个类型。\n英文很重要，CG的产品竟然不知道给谁的名片比较好。给名片的时候很混乱。",
+    "crumbs": [
+      "工作回顾",
+      "01【BD】2025 CPHI China: 小白参加展会的一天"
+    ]
+  },
+  {
+    "objectID": "BD_01.html",
+    "href": "BD_01.html",
+    "title": "02【BD】2025 CPHI China: 外贸展会必备口语",
+    "section": "",
+    "text": "By: JOJO 2025-06-18",
+    "crumbs": [
+      "基础知识",
+      "02【BD】2025 CPHI China: 外贸展会必备口语"
+    ]
+  },
+  {
+    "objectID": "BD_01.html#场景分类",
+    "href": "BD_01.html#场景分类",
+    "title": "02【BD】2025 CPHI China: 外贸展会必备口语",
+    "section": "1 场景分类",
+    "text": "1 场景分类\n\n1.1 通用口语\n\n1.1.1 第一部分 引导篇\n\n\nHow are you doing? Welcome to our booth. Come in and take a look，please. 您好，欢迎来我们展位看一看。\nHello! Welcome to our booth. Are you looking for anything specific today? 您好！欢迎来到我们的展位。今天您在寻找什么产品吗？\nMorning! How can I help? 早上好，我能为您做什么？\nI’m XXX, the technical consultant from XXXX. How can I assist you? 我是XXXX公司的技术顾问XXX，有什么可以帮您？\nHow do I address you? 请问我该如何称呼您？\nHere is my business card, may I have yours? 这是我的名片，可以拿一张您的名片吗？\n\n\n\n\n1.1.2 第二部分 打开话题篇\n\n\nI noticed you were checking our product. Would you like a quick introduction? 注意到您在看我们的产品，需要我介绍一下吗？\nWould you like me to give you a quick overview of what we offer? 我给您简短介绍一下我们的产品好吗？\nPlease take a look at some of our brochures. 请看看我们的宣传手册。\nHere’s a catalogue with more information on our products. 这是我们的产品图册。\nAllow me to introduce our latest product line. 请允许我为您介绍我们的最新产品线。\nHow do you find the quality of our products? 你觉得我们产品的质量怎么样？\nDo you focus more on API purity, stability, or cost-efficiency? 您更关注原料药纯度、稳定性还是成本效益？\nWhat’s your priority – quality, lead time, or pricing? 您更看重质量、交货期还是价格？\nWhat kind of product or API are you currently interested in? 您目前对哪类制剂或原料药感兴趣？\nAllow me to show you some of the great features of this products. 让我来给您介绍一下我们产品的优势。\nThis product is currently in high demand, and we have received numerous inquiries from other countries. 这种产品现在需求量很大，我们已经收到了来自其他国家的很多询盘。\n\n\n\n\n1.1.3 第三部分 应对疑惑篇\n\n\nAll products comply with USP/EP/ChP standards, and we have FDA/MHRA approvals. 所有产品符合USP/EP/中国药典标准，并获得FDA/MHRA认证。\nWe always put quality as the first consideration. 我们一直把质量放在第一位。\nQuality is our top priority. We conduct rigorous testing at every stage of production. 质量是我们的首要追求。我们在生产的每一个环节都进行严格的测试。\nOur products stand out in the market due to their superior quality and competitive pricing. 我们的产品凭借卓越的质量和具有竞争力的价格，在市场上脱颖而出。\nWe offer volume discounts. Our sales team can customize a cost-effective solution for you. 量大可享折扣，我们销售团队可以为您定制高性价比方案。\nWould you tell us what quantity you require so that we can work out the offer? 谢谢你询价，为了便于我方提出报价，能否请你谈谈你方需求数量？\nWill you please tell us the specifications, quantity and packing you want, so that we can work out the offer ASAP? 请告诉我们贵方对规格、数量及包装的要求，以便我方尽快制定出报价。\nAre there any features you don’t see here that you would be interested in? 您还有哪些感兴趣的功能我这边没提到？\nIf you have any questions on the details, feel free to ask. 如果有任何疑问，请一定告诉我。\n\n\n\n\n1.1.4 第四部分 后续跟进篇\n\n\nThank you for your valuable time and interest in our products. 感谢您抽出宝贵时间，并对我们的产品表示关注。\nIt’s a pleasure to meet you. Thanks for stopping by our booth! 很高兴认识您，感谢到访！\nMay I scan your badge, or could we connect on WeChat/WhatsApp? 可以扫描您的展会胸卡吗？或者加个微信/WhatsApp方便沟通？\nMay I also have your contact details please? 能留一下您的联系方式吗？\nYou can also visit our website or email us for more information. 您可以在我们网站上看到更多信息。\nHere’s a free sample for your evaluation. 这是免费样品，您可以带回测试。\nIf you are interested in our products, you can order a small quantity first. 如果你对我们的产品感兴趣，可以先少量订一批。\nHere’s a gift for you, thanks for your consulting. 这是赠送给您的礼物，谢谢您的咨询。\nWe’re keen to explore potential business opportunities with your company. 我们非常期待与贵公司探讨潜在的合作机会。\nWe look forward to establishing a long-term partnership with you. 我们期待与您建立长期稳定的合作关系。\nPlease reconsider our offer, hope to get your feedback soon. 请考虑一下我们的提议，期待您的回复。\nHow many days will you stay in China? I wonder if you could arrange a visit to the factory. 您打算在中国呆多久？要不要来我们工厂看看？\nWelcome to China and visit our company any time. 欢迎您来中国参观我们的公司。\n\n\n\n\n1.1.5 第五部分 突发情况处理篇\n\n\nCould you kindly repeat that? I want to give you accurate information. 麻烦再说一遍？我想确保给您准确信息。\nExcuse me a moment. I’ll be right back. 抱歉我失陪一下。\nSorry to keep you waiting. 抱歉，让您久等了。\n\n\n\n\n\n1.2 定制化口语\n\n\nHello! We specialize in GLP-1 analogs and insulin-related products with purity ranging from [XX%] to [XX%]. Are you currently working on these therapies? 您好！我们专注于GLP-1类药物和胰岛素相关产品，纯度从[XX%]到[XX%]可选，您目前在研发或生产这类药物吗？\nWhat’s your main focus at this exhibition—is it sourcing APIs, or looking for technical partnerships? 您这次来展会主要关注什么——是采购原料药，还是寻求技术合作？\nCould I have your card to send the COA? Should I address it to you or your technical manager? 方便留名片吗？后续发COA是直接联系您，还是转交技术经理？\nTwo manufacturing sites are FDA-inspected and GMP-compliant, with an annual capacity of over XX kg—no supply chain risks. 两个生产基地均通过FDA检查，符合GMP标准，年产能超过XX公斤，完全不用担心供应链问题。\nOur modifications are non-infringing.  我们的修饰路线不涉及专利冲突。\nCOA (Certificate of Analysis) covers all QC parameters you need. COA（分析证书）里包含您关心的所有质检数据。\nWe can help you navigate regulatory submissions in key markets—faster approvals, less hassle. 我们可以帮您在重点市场加速注册申报——更快获批，减少麻烦。\nLet’s partner on regulatory strategy. 我们可以合作制定注册策略。",
+    "crumbs": [
+      "基础知识",
+      "02【BD】2025 CPHI China: 外贸展会必备口语"
+    ]
+  },
+  {
+    "objectID": "BD_01.html#巧用工具",
+    "href": "BD_01.html#巧用工具",
+    "title": "02【BD】2025 CPHI China: 外贸展会必备口语",
+    "section": "2 巧用工具",
+    "text": "2 巧用工具\n随着人工智能（ChatGPT, DeepSeek等）的崛起，我们可以巧用这些工具来帮助我们练习口语。以Chatgpt为例，只需要输入指令、设定人物角色，即可开始对话，还可以设定对方的口音和音色。\n\n2.1 基础版\n\n请你扮演参加CPHI展会的美国药企采购总监，专注GLP-1原料药采购，具有以下特征：\n\n说话风格：直截了当，常问价格/产能/合规问题\n行业术语：使用MOQ/COA/FDA483等缩写\n典型问题：“What’s your best price for 100kg?” “Show me your FDA inspection reports”\n\n现在开始对话，你先用英文提问，我回复后请：\n\n纠正我的语法错误\n指出更地道的表达\n根据回答追加专业问题\n\n\n\n\n2.2 进阶版\n\n现在每隔3轮对话就切换角色，顺序如下：\n\n德国技术总监（关注纯度/工艺细节）\n印度采购经理（砍价/要折扣）\n巴西注册主管（问EDMF/ANVISA合规）\n\n保持该角色典型口音与用语特征（如印度式英语的”kindly send”高频出现）\n\n\n\n2.3 复盘模式\n\n刚才的对话中，请：\n\n列出我犯的3个最严重错误（语法/内容/礼仪）\n给出3句更专业的替代表达\n提取客户透露的2个关键需求",
+    "crumbs": [
+      "基础知识",
+      "02【BD】2025 CPHI China: 外贸展会必备口语"
+    ]
+  },
+  {
+    "objectID": "BD_01.html#碎碎念",
+    "href": "BD_01.html#碎碎念",
+    "title": "02【BD】2025 CPHI China: 外贸展会必备口语",
+    "section": "3 碎碎念",
+    "text": "3 碎碎念\n距离2025 CPHI China展会只有4天了，虽然该展会主要面向国内，但是不免有外国客户参展。我们生活在非英语国家，平时也少有锻炼口语的机会，因此临时抱一下佛脚还是很有必要的~除了运用AI工具练习以外，还可以跟同去参展的同事们一块练练。\n更多的准备，意味着更少的慌乱，更专业，更值得信赖。",
+    "crumbs": [
+      "基础知识",
+      "02【BD】2025 CPHI China: 外贸展会必备口语"
+    ]
+  },
+  {
+    "objectID": "BD_01.html#参考资料",
+    "href": "BD_01.html#参考资料",
+    "title": "02【BD】2025 CPHI China: 外贸展会必备口语",
+    "section": "4 参考资料",
+    "text": "4 参考资料\n\n[1] 外贸人须熟记344句贯穿参展业务全流程口语攻略",
+    "crumbs": [
+      "基础知识",
+      "02【BD】2025 CPHI China: 外贸展会必备口语"
+    ]
+  }
+]

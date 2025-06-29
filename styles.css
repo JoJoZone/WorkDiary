@@ -1,0 +1,30 @@
+/* css styles */
+.callout-tip {
+  background-color: white!important;  /* 设置背景颜色 */
+  border-left: 5px solid #00796b;  /* 设置左侧边框颜色 */
+  padding: 10px;  /* 设置内边距 */
+  border-radius: 4px;  /* 设置圆角 */
+  color: #042e0e;/* 设置文本颜色 */
+}
+
+.callout-tip h2 {
+  color: #00796b;  /* 设置标题颜色 */
+}
+.small-title {
+  color: #28A745;
+  font-weight: 700;
+}
+.emphasize {
+  color: #00441b;
+  font-weight: 800;
+}
+
+.custom-image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto; /* 居中显示 */
+  border-radius: 10px; /* 圆角边框 */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 阴影效果 */
+  border: 1px solid #e0e0e0; /* 边框 */
+}
